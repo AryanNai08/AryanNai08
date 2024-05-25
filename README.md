@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">📫 Hey, I am Student</h3>
 
-
-
-- 🔭 I’m currently working on **my skill to improve it**
-
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 I am also interested in [full stack web development](full stack web development)
+- 👨‍💻 I am also interested in full stack web development
+  
+- 🔭 I’m currently working on **my skill to improve it**
 
 - 💬 Ask me about **data structures and algorithms, Java, Python, PHP**
 
