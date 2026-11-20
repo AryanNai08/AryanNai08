@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.E. Computer Engineering — Government Engineering College, Modasa (2026) · CGPA **8.79**
-- 🏢 Currently interning as **Full Stack .NET Developer** at **Tridhya Tech Limited**
+- 🏢 Currently  as **Full Stack .NET Developer** at **Sourcepro Infotech pvt. ltd**
 - ⚙️ I build REST APIs and full-stack web apps using **ASP.NET Core + Angular**
 - 🏗️ Strong focus on **Clean Architecture**, **Design Patterns**, and **Automated Testing**
 - 🥈 Hackathon Runner-up × 2 — including ₹6,000 prize at Hack the Spring '25
